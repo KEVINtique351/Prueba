@@ -1,1 +1,3 @@
 prueba numero1
+
+clase numero 2 <base de datos>
